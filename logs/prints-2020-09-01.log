@@ -1,0 +1,153 @@
+10:29:02.148 [main] INFO  resources.base - Enter new pin
+10:29:03.547 [main] INFO  resources.base - Enter confirm pin
+10:29:03.547 [main] INFO  resources.base - Intilized Achat Application
+10:29:18.395 [main] INFO  resources.base - Group created
+10:29:22.670 [main] INFO  resources.base - Match the groupname and selected
+10:29:24.319 [main] INFO  resources.base - Successfully group exited
+10:29:27.589 [main] INFO  resources.base - Match the groupname and selected
+10:29:28.994 [main] INFO  resources.base - Successfully group deleted
+10:40:58.010 [main] INFO  resources.base - Enter new pin
+10:40:59.430 [main] INFO  resources.base - Enter confirm pin
+10:40:59.431 [main] INFO  resources.base - Intilized Achat Application
+10:44:08.276 [main] INFO  resources.base - Enter new pin
+10:44:09.698 [main] INFO  resources.base - Enter confirm pin
+10:44:09.699 [main] INFO  resources.base - Intilized Achat Application
+10:45:44.804 [main] INFO  resources.base - Enter new pin
+10:45:46.233 [main] INFO  resources.base - Enter confirm pin
+10:45:46.233 [main] INFO  resources.base - Intilized Achat Application
+10:46:39.889 [main] INFO  resources.base - Enter new pin
+10:46:41.262 [main] INFO  resources.base - Enter confirm pin
+10:46:41.263 [main] INFO  resources.base - Intilized Achat Application
+10:47:31.904 [main] INFO  resources.base - Enter new pin
+10:47:33.298 [main] INFO  resources.base - Enter confirm pin
+10:47:33.299 [main] INFO  resources.base - Intilized Achat Application
+10:50:46.426 [main] INFO  resources.base - Enter new pin
+10:50:47.838 [main] INFO  resources.base - Enter confirm pin
+10:50:47.838 [main] INFO  resources.base - Intilized Achat Application
+10:54:46.601 [main] INFO  resources.base - Enter new pin
+10:54:48.076 [main] INFO  resources.base - Enter confirm pin
+10:54:48.076 [main] INFO  resources.base - Intilized Achat Application
+10:59:26.052 [main] INFO  resources.base - Intilized Achat Application
+11:01:15.707 [main] INFO  resources.base - Intilized Achat Application
+11:03:08.739 [main] INFO  resources.base - Enter new pin
+11:03:10.164 [main] INFO  resources.base - Enter confirm pin
+11:03:10.165 [main] INFO  resources.base - Intilized Achat Application
+11:05:02.492 [main] INFO  resources.base - Enter new pin
+11:05:03.924 [main] INFO  resources.base - Enter confirm pin
+11:05:03.924 [main] INFO  resources.base - Intilized Achat Application
+11:05:40.468 [main] INFO  resources.base - Enter new pin
+11:05:41.877 [main] INFO  resources.base - Enter confirm pin
+11:05:41.877 [main] INFO  resources.base - Intilized Achat Application
+11:12:30.356 [main] INFO  resources.base - Enter new pin
+11:12:31.763 [main] INFO  resources.base - Enter confirm pin
+11:12:31.763 [main] INFO  resources.base - Intilized Achat Application
+11:14:13.536 [main] INFO  resources.base - Enter new pin
+11:14:14.840 [main] INFO  resources.base - Enter confirm pin
+11:14:14.841 [main] INFO  resources.base - Intilized Achat Application
+11:24:24.735 [main] INFO  resources.base - Enter new pin
+11:24:26.140 [main] INFO  resources.base - Enter confirm pin
+11:24:26.140 [main] INFO  resources.base - Intilized Achat Application
+13:26:48.032 [main] INFO  resources.base - Enter new pin
+13:26:49.510 [main] INFO  resources.base - Enter confirm pin
+13:26:49.510 [main] INFO  resources.base - Intilized Achat Application
+13:29:00.850 [main] INFO  resources.base - Enter new pin
+13:29:02.271 [main] INFO  resources.base - Enter confirm pin
+13:29:02.271 [main] INFO  resources.base - Intilized Achat Application
+13:32:37.848 [main] INFO  resources.base - Enter new pin
+13:32:39.316 [main] INFO  resources.base - Enter confirm pin
+13:32:39.316 [main] INFO  resources.base - Intilized Achat Application
+13:45:16.638 [main] INFO  resources.base - Enter new pin
+13:45:18.058 [main] INFO  resources.base - Enter confirm pin
+13:45:18.059 [main] INFO  resources.base - Intilized Achat Application
+13:51:41.912 [main] INFO  resources.base - Enter new pin
+13:51:43.379 [main] INFO  resources.base - Enter confirm pin
+13:51:43.380 [main] INFO  resources.base - Intilized Achat Application
+13:54:20.535 [main] INFO  resources.base - Enter new pin
+13:54:22.013 [main] INFO  resources.base - Enter confirm pin
+13:54:22.013 [main] INFO  resources.base - Intilized Achat Application
+14:12:23.129 [main] INFO  resources.base - Enter new pin
+14:12:24.465 [main] INFO  resources.base - Enter confirm pin
+14:12:24.465 [main] INFO  resources.base - Intilized Achat Application
+14:13:27.262 [main] INFO  resources.base - Enter new pin
+14:13:28.628 [main] INFO  resources.base - Enter confirm pin
+14:13:28.629 [main] INFO  resources.base - Intilized Achat Application
+14:13:43.859 [main] INFO  resources.base - Group created
+14:13:47.234 [main] INFO  resources.base - Match the groupname and selected
+14:13:59.143 [main] INFO  resources.base - Match the groupname and selected
+14:14:00.546 [main] INFO  resources.base - Successfully group deleted
+14:36:01.933 [main] INFO  resources.base - Enter new pin
+14:36:03.279 [main] INFO  resources.base - Enter confirm pin
+14:36:03.279 [main] INFO  resources.base - Intilized Achat Application
+14:36:16.318 [main] INFO  resources.base - Group created
+14:36:18.428 [main] INFO  resources.base - Match the groupname and selected
+14:36:19.847 [main] INFO  resources.base - Click text message box
+14:36:22.127 [main] INFO  resources.base - Successfully send message
+14:36:23.080 [main] INFO  resources.base - Click image icon
+14:36:25.377 [main] INFO  resources.base - Click image file
+14:36:26.002 [main] INFO  resources.base - Click image category
+14:36:28.233 [main] INFO  resources.base - Click images
+14:36:29.427 [main] INFO  resources.base - Confirmed the image
+14:36:31.037 [main] INFO  resources.base - Confirm the images
+14:36:33.260 [main] INFO  resources.base - Successfully send images
+14:36:36.610 [main] INFO  resources.base - Click attach icon
+14:36:37.893 [main] INFO  resources.base - Select document  file
+14:36:38.272 [main] INFO  resources.base - Click document category
+14:36:39.727 [main] INFO  resources.base - Sucessfully send documents
+14:36:41.825 [main] INFO  resources.base - Click video image icon
+14:36:43.600 [main] INFO  resources.base - Click video file icon
+14:36:44.144 [main] INFO  resources.base - Click video category
+14:36:46.954 [main] INFO  resources.base - choose videos
+14:36:48.119 [main] INFO  resources.base - Video selected
+14:36:50.162 [main] INFO  resources.base - Confirmed the videos
+14:36:53.354 [main] INFO  resources.base - Successfully send videos
+14:36:58.927 [main] INFO  resources.base - Click image icon
+14:37:09.213 [main] INFO  resources.base - Click audio file
+14:37:09.408 [main] INFO  resources.base - Successfully send audios
+14:37:27.092 [main] INFO  resources.base - Click attach icon
+14:37:28.503 [main] INFO  resources.base - Click image file
+14:37:31.334 [main] INFO  resources.base - Click photo
+14:37:40.021 [main] INFO  resources.base - Successfully send camera photo
+14:37:47.195 [main] INFO  resources.base - Successfully send audios
+14:37:58.569 [main] INFO  resources.base - Successfully clicked on forwareded message
+14:37:58.798 [main] INFO  resources.base - Successfully clicked on forward icon
+15:04:07.191 [main] INFO  resources.base - Enter new pin
+15:04:08.650 [main] INFO  resources.base - Enter confirm pin
+15:04:08.651 [main] INFO  resources.base - Intilized Achat Application
+15:04:22.043 [main] INFO  resources.base - Group created
+15:04:24.163 [main] INFO  resources.base - Match the groupname and selected
+15:04:25.294 [main] INFO  resources.base - Click text message box
+15:04:27.494 [main] INFO  resources.base - Successfully send message
+15:04:28.479 [main] INFO  resources.base - Click image icon
+15:04:30.984 [main] INFO  resources.base - Click image file
+15:04:31.623 [main] INFO  resources.base - Click image category
+15:04:33.498 [main] INFO  resources.base - Click images
+15:04:34.708 [main] INFO  resources.base - Confirmed the image
+15:04:36.297 [main] INFO  resources.base - Confirm the images
+15:04:40.069 [main] INFO  resources.base - Successfully send images
+15:04:41.732 [main] INFO  resources.base - Click attach icon
+15:04:43.009 [main] INFO  resources.base - Select document  file
+15:04:43.390 [main] INFO  resources.base - Click document category
+15:04:44.840 [main] INFO  resources.base - Sucessfully send documents
+15:04:46.393 [main] INFO  resources.base - Click video image icon
+15:04:48.320 [main] INFO  resources.base - Click video file icon
+15:04:48.589 [main] INFO  resources.base - Click video category
+15:04:50.454 [main] INFO  resources.base - choose videos
+15:04:51.603 [main] INFO  resources.base - Video selected
+15:04:52.788 [main] INFO  resources.base - Confirmed the videos
+15:04:54.385 [main] INFO  resources.base - Successfully send videos
+15:05:00.664 [main] INFO  resources.base - Click image icon
+15:05:07.255 [main] INFO  resources.base - Click audio file
+15:05:07.424 [main] INFO  resources.base - Successfully send audios
+15:05:26.532 [main] INFO  resources.base - Click attach icon
+15:05:30.092 [main] INFO  resources.base - Click image file
+15:05:33.637 [main] INFO  resources.base - Click photo
+15:05:40.459 [main] INFO  resources.base - Successfully send camera photo
+15:05:47.560 [main] INFO  resources.base - Successfully send audios
+15:05:54.014 [main] INFO  resources.base - Successfully clicked message
+15:05:54.307 [main] INFO  resources.base - Successfully clicked on reply icon
+15:05:55.511 [main] INFO  resources.base - Successfully clicked on type text box
+15:05:57.457 [main] INFO  resources.base - Successfully typed the text
+15:05:58.760 [main] INFO  resources.base - Successfully clicked on send icon
+15:06:04.856 [main] INFO  resources.base - Successfully clicked on forwareded message
+15:06:05.117 [main] INFO  resources.base - Successfully clicked on forward icon
+15:06:06.377 [main] INFO  resources.base - Successfully clicked on forward contact

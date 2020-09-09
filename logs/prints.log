@@ -1,0 +1,45 @@
+11:17:51.973 [main] INFO  resources.base - Click document category
+11:17:53.458 [main] INFO  resources.base - Sucessfully send documents
+11:17:56.096 [main] INFO  resources.base - Click video image icon
+11:17:58.227 [main] INFO  resources.base - Click video file icon
+11:17:58.470 [main] INFO  resources.base - Click video category
+11:17:59.734 [main] INFO  resources.base - choose videos
+11:18:00.570 [main] INFO  resources.base - Video selected
+11:18:02.984 [main] INFO  resources.base - Confirmed the videos
+11:18:04.681 [main] INFO  resources.base - Successfully send videos
+11:18:12.246 [main] INFO  resources.base - Click image icon
+11:18:14.354 [main] INFO  resources.base - Click audio file
+11:18:14.451 [main] INFO  resources.base - Successfully send audios
+11:18:22.582 [main] INFO  resources.base - Click loc icon
+11:18:25.339 [main] INFO  resources.base - Click location file
+11:18:27.790 [main] INFO  resources.base - Click on my location icon
+11:18:30.369 [main] INFO  resources.base - Clicked select this location
+11:18:30.592 [main] INFO  resources.base - Successfully send current location
+11:18:32.260 [main] INFO  resources.base - Click attach icon
+11:18:34.478 [main] INFO  resources.base - Click image file
+11:18:36.000 [main] INFO  resources.base - Click photo
+11:18:41.596 [main] INFO  resources.base - Successfully send camera photo
+11:18:48.529 [main] INFO  resources.base - Successfully send audios
+11:18:54.963 [main] INFO  resources.base - Successfully clicked message
+11:18:55.206 [main] INFO  resources.base - Successfully clicked on reply icon
+11:18:56.365 [main] INFO  resources.base - Successfully clicked on type text box
+11:18:58.672 [main] INFO  resources.base - Successfully typed the text
+11:18:59.777 [main] INFO  resources.base - Successfully clicked on send icon
+11:19:05.457 [main] INFO  resources.base - Successfully clicked on forwareded message
+11:19:05.842 [main] INFO  resources.base - Successfully clicked on forward icon
+11:19:08.105 [main] INFO  resources.base - Successfully clicked on forward contact
+11:19:09.796 [main] INFO  resources.base - Group name clicked successfully
+11:19:10.001 [main] INFO  resources.base - Successfully clicked on contact send icon
+11:19:14.953 [main] INFO  resources.base - Clicked on more options icon
+11:19:17.094 [main] INFO  resources.base - Clicked on mute option
+11:19:17.400 [main] INFO  resources.base - Clicked on mutechat radio button
+11:19:18.062 [main] INFO  resources.base - Successfully clicked on OK text
+11:19:18.942 [main] INFO  resources.base - Successfully page navigated
+11:19:24.799 [main] INFO  resources.base - Successfully clicked on muted contact
+11:19:25.992 [main] INFO  resources.base - Successfully clicked on unmute icon
+11:19:30.776 [main] INFO  resources.base - Successfully clicked on Group
+11:19:32.038 [main] INFO  resources.base - Successfully chat has been cleared
+11:19:35.466 [main] INFO  resources.base - Match the groupname and selected
+11:19:37.144 [main] INFO  resources.base - Successfully group exited
+11:19:40.911 [main] INFO  resources.base - Match the groupname to delete
+11:19:42.152 [main] INFO  resources.base - The groupname deleted successfully

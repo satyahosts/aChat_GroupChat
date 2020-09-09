@@ -1,0 +1,148 @@
+22:53:17.219 [main] INFO  resources.base - Group created
+22:53:20.444 [main] INFO  resources.base - Match the groupname and selected
+22:53:21.984 [main] INFO  resources.base - Click text message box
+22:53:24.781 [main] INFO  resources.base - Successfully send message
+22:53:25.857 [main] INFO  resources.base - Click image icon
+22:53:28.291 [main] INFO  resources.base - Click image file
+22:53:28.681 [main] INFO  resources.base - Click image category
+22:53:30.107 [main] INFO  resources.base - Click images
+22:53:31.007 [main] INFO  resources.base - Confirmed the image
+22:53:32.554 [main] INFO  resources.base - Confirm the images
+22:53:34.786 [main] INFO  resources.base - Successfully send images
+22:53:36.935 [main] INFO  resources.base - Click attach icon
+22:53:39.236 [main] INFO  resources.base - Select document  file
+22:53:39.619 [main] INFO  resources.base - Click document category
+22:53:40.998 [main] INFO  resources.base - Sucessfully send documents
+22:53:43.662 [main] INFO  resources.base - Click video image icon
+22:53:43.947 [main] INFO  resources.base - Click video file icon
+22:53:45.314 [main] INFO  resources.base - Click video category
+22:53:46.811 [main] INFO  resources.base - choose videos
+22:53:48.046 [main] INFO  resources.base - Video selected
+22:53:49.946 [main] INFO  resources.base - Confirmed the videos
+22:53:51.576 [main] INFO  resources.base - Successfully send videos
+22:53:53.604 [main] INFO  resources.base - Click image icon
+22:53:58.099 [main] INFO  resources.base - Click audio file
+22:53:58.301 [main] INFO  resources.base - Successfully send audios
+22:54:13.588 [main] INFO  resources.base - Click loc icon
+22:54:19.789 [main] INFO  resources.base - Click location file
+22:54:25.270 [main] INFO  resources.base - Click on my location icon
+22:54:26.354 [main] INFO  resources.base - Clicked select this location
+22:54:28.110 [main] INFO  resources.base - Successfully send current location
+22:54:29.687 [main] INFO  resources.base - Click attach icon
+22:54:32.583 [main] INFO  resources.base - Click image file
+22:54:34.029 [main] INFO  resources.base - Click photo
+22:54:41.563 [main] INFO  resources.base - Successfully send camera photo
+22:54:48.999 [main] INFO  resources.base - Successfully send audios
+22:54:50.701 [main] INFO  resources.base - Clicked on the group name
+22:54:55.484 [main] INFO  resources.base - Match the username to click
+22:54:55.710 [main] INFO  resources.base - Making the user group admin
+22:54:57.389 [main] INFO  resources.base - Navigate back to the chat screen after making one user admin
+22:54:59.057 [main] INFO  resources.base - Click text message box
+22:55:02.172 [main] INFO  resources.base - Successfully send message
+22:55:03.224 [main] INFO  resources.base - Click image icon
+22:55:05.929 [main] INFO  resources.base - Click image file
+22:55:06.180 [main] INFO  resources.base - Click image category
+22:55:07.498 [main] INFO  resources.base - Click images
+22:55:08.300 [main] INFO  resources.base - Confirmed the image
+22:55:09.729 [main] INFO  resources.base - Confirm the images
+22:55:11.926 [main] INFO  resources.base - Successfully send images
+22:55:15.715 [main] INFO  resources.base - Click attach icon
+22:55:17.141 [main] INFO  resources.base - Select document  file
+22:55:17.455 [main] INFO  resources.base - Click document category
+22:55:18.743 [main] INFO  resources.base - Sucessfully send documents
+22:55:20.904 [main] INFO  resources.base - Click video image icon
+22:55:23.005 [main] INFO  resources.base - Click video file icon
+22:55:23.220 [main] INFO  resources.base - Click video category
+22:55:24.513 [main] INFO  resources.base - choose videos
+22:55:25.318 [main] INFO  resources.base - Video selected
+22:55:27.202 [main] INFO  resources.base - Confirmed the videos
+22:55:28.780 [main] INFO  resources.base - Successfully send videos
+22:55:32.979 [main] INFO  resources.base - Click image icon
+22:55:37.896 [main] INFO  resources.base - Click audio file
+22:55:38.060 [main] INFO  resources.base - Successfully send audios
+22:56:02.128 [main] INFO  resources.base - Click loc icon
+22:56:04.093 [main] INFO  resources.base - Click location file
+22:56:06.464 [main] INFO  resources.base - Click on my location icon
+22:56:07.689 [main] INFO  resources.base - Clicked select this location
+22:56:09.368 [main] INFO  resources.base - Successfully send current location
+22:56:10.893 [main] INFO  resources.base - Click attach icon
+22:56:13.173 [main] INFO  resources.base - Click image file
+22:56:14.622 [main] INFO  resources.base - Click photo
+22:56:20.198 [main] INFO  resources.base - Successfully send camera photo
+22:56:27.653 [main] INFO  resources.base - Successfully send audios
+22:56:33.908 [main] INFO  resources.base - Successfully clicked message
+22:56:34.115 [main] INFO  resources.base - Successfully clicked on reply icon
+22:56:35.251 [main] INFO  resources.base - Successfully clicked on type text box
+22:56:37.074 [main] INFO  resources.base - Successfully typed the text
+22:56:39.030 [main] INFO  resources.base - Successfully clicked on send icon
+22:56:43.797 [main] INFO  resources.base - Successfully clicked on forwareded message
+22:56:43.988 [main] INFO  resources.base - Successfully clicked on forward icon
+22:56:45.737 [main] INFO  resources.base - Successfully clicked on forward contact
+22:56:47.243 [main] INFO  resources.base - Group name clicked successfully
+22:56:47.560 [main] INFO  resources.base - Successfully clicked on contact send icon
+22:56:51.777 [main] INFO  resources.base - Clicked on more options icon
+22:56:53.818 [main] INFO  resources.base - Clicked on mute option
+22:56:54.030 [main] INFO  resources.base - Clicked on mutechat radio button
+22:56:54.693 [main] INFO  resources.base - Successfully clicked on OK text
+22:56:55.566 [main] INFO  resources.base - Successfully page navigated
+22:57:01.612 [main] INFO  resources.base - Successfully clicked on muted contact
+22:57:02.974 [main] INFO  resources.base - Successfully clicked on unmute icon
+22:57:07.780 [main] INFO  resources.base - Successfully clicked on Group
+22:57:08.901 [main] INFO  resources.base - Successfully chat has been cleared
+22:57:11.968 [main] INFO  resources.base - Match the groupname and selected
+22:57:13.460 [main] INFO  resources.base - Successfully group exited
+22:57:16.416 [main] INFO  resources.base - Match the groupname to delete
+22:57:17.867 [main] INFO  resources.base - The groupname deleted successfully
+11:15:43.029 [main] INFO  resources.base - Enter new pin
+11:15:44.513 [main] INFO  resources.base - Enter confirm pin
+11:15:44.513 [main] INFO  resources.base - Intilized Achat Application
+11:15:59.074 [main] INFO  resources.base - Group created
+11:16:02.351 [main] INFO  resources.base - Match the groupname and selected
+11:16:03.963 [main] INFO  resources.base - Click text message box
+11:16:07.128 [main] INFO  resources.base - Successfully send message
+11:16:08.266 [main] INFO  resources.base - Click image icon
+11:16:09.293 [main] INFO  resources.base - Click image file
+11:16:10.962 [main] INFO  resources.base - Click image category
+11:16:12.620 [main] INFO  resources.base - Click images
+11:16:13.505 [main] INFO  resources.base - Confirmed the image
+11:16:15.470 [main] INFO  resources.base - Confirm the images
+11:16:17.835 [main] INFO  resources.base - Successfully send images
+11:16:21.271 [main] INFO  resources.base - Click attach icon
+11:16:22.664 [main] INFO  resources.base - Select document  file
+11:16:23.129 [main] INFO  resources.base - Click document category
+11:16:24.309 [main] INFO  resources.base - Sucessfully send documents
+11:16:25.842 [main] INFO  resources.base - Click video image icon
+11:16:27.905 [main] INFO  resources.base - Click video file icon
+11:16:28.138 [main] INFO  resources.base - Click video category
+11:16:29.623 [main] INFO  resources.base - choose videos
+11:16:30.556 [main] INFO  resources.base - Video selected
+11:16:32.471 [main] INFO  resources.base - Confirmed the videos
+11:16:41.260 [main] INFO  resources.base - Successfully send videos
+11:16:41.796 [main] INFO  resources.base - Click image icon
+11:16:44.276 [main] INFO  resources.base - Click audio file
+11:16:44.439 [main] INFO  resources.base - Successfully send audios
+11:16:52.486 [main] INFO  resources.base - Click loc icon
+11:16:53.992 [main] INFO  resources.base - Click location file
+11:16:58.679 [main] INFO  resources.base - Click on my location icon
+11:17:01.275 [main] INFO  resources.base - Clicked select this location
+11:17:01.499 [main] INFO  resources.base - Successfully send current location
+11:17:04.379 [main] INFO  resources.base - Click attach icon
+11:17:04.794 [main] INFO  resources.base - Click image file
+11:17:07.507 [main] INFO  resources.base - Click photo
+11:17:13.378 [main] INFO  resources.base - Successfully send camera photo
+11:17:21.892 [main] INFO  resources.base - Successfully send audios
+11:17:23.704 [main] INFO  resources.base - Clicked on the group name
+11:17:28.465 [main] INFO  resources.base - Match the username to click
+11:17:28.684 [main] INFO  resources.base - Making the user group admin
+11:17:31.565 [main] INFO  resources.base - Navigate back to the chat screen after making one user admin
+11:17:33.363 [main] INFO  resources.base - Click text message box
+11:17:36.509 [main] INFO  resources.base - Successfully send message
+11:17:37.585 [main] INFO  resources.base - Click image icon
+11:17:40.518 [main] INFO  resources.base - Click image file
+11:17:40.784 [main] INFO  resources.base - Click image category
+11:17:42.151 [main] INFO  resources.base - Click images
+11:17:43.036 [main] INFO  resources.base - Confirmed the image
+11:17:44.534 [main] INFO  resources.base - Confirm the images
+11:17:46.762 [main] INFO  resources.base - Successfully send images
+11:17:49.459 [main] INFO  resources.base - Click attach icon
+11:17:51.697 [main] INFO  resources.base - Select document  file

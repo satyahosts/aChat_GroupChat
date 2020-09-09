@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="18" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-07T11:15:32 IST" name="Default suite" finished-at="2020-09-07T11:19:42 IST" duration-ms="249572">
+    <groups>
+    </groups>
+    <test started-at="2020-09-07T11:15:32 IST" name="Default test" finished-at="2020-09-07T11:19:42 IST" duration-ms="249572">
+      <class name="executionPackage.Groupchat_test">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:15:32 IST" name="BeforeTest" finished-at="2020-09-07T11:15:44 IST" duration-ms="11923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="create_group()[pri:1, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:15:44 IST" name="create_group" finished-at="2020-09-07T11:15:59 IST" duration-ms="14523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_group -->
+        <test-method signature="getgroup_name()[pri:2, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:15:59 IST" name="getgroup_name" finished-at="2020-09-07T11:16:02 IST" duration-ms="3269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getgroup_name -->
+        <test-method signature="sendtxt()[pri:3, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:16:02 IST" name="sendtxt" finished-at="2020-09-07T11:16:07 IST" duration-ms="4773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendtxt -->
+        <test-method signature="send_imges()[pri:4, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:16:07 IST" name="send_imges" finished-at="2020-09-07T11:16:17 IST" duration-ms="10706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_imges -->
+        <test-method signature="send_documents()[pri:5, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:16:17 IST" name="send_documents" finished-at="2020-09-07T11:16:24 IST" duration-ms="6472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_documents -->
+        <test-method signature="send_videos()[pri:6, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:16:24 IST" name="send_videos" finished-at="2020-09-07T11:16:41 IST" duration-ms="16949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_videos -->
+        <test-method signature="send_audios()[pri:7, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:16:41 IST" name="send_audios" finished-at="2020-09-07T11:16:44 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_audios -->
+        <test-method signature="send_currentlocation()[pri:8, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:16:44 IST" name="send_currentlocation" finished-at="2020-09-07T11:17:01 IST" duration-ms="17058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_currentlocation -->
+        <test-method signature="send_cameraphoto()[pri:10, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:17:01 IST" name="send_cameraphoto" finished-at="2020-09-07T11:17:13 IST" duration-ms="11877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_cameraphoto -->
+        <test-method signature="record_audio()[pri:11, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:17:13 IST" name="record_audio" finished-at="2020-09-07T11:17:21 IST" duration-ms="8512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record_audio -->
+        <test-method signature="make_admin()[pri:12, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:17:21 IST" name="make_admin" finished-at="2020-09-07T11:18:48 IST" duration-ms="86635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- make_admin -->
+        <test-method signature="reply_message()[pri:13, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:18:48 IST" name="reply_message" finished-at="2020-09-07T11:18:59 IST" duration-ms="11242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reply_message -->
+        <test-method signature="forward_message()[pri:14, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:18:59 IST" name="forward_message" finished-at="2020-09-07T11:19:10 IST" duration-ms="10221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forward_message -->
+        <test-method signature="mute_contact()[pri:15, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:19:10 IST" name="mute_contact" finished-at="2020-09-07T11:19:18 IST" duration-ms="8939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mute_contact -->
+        <test-method signature="unmute_conact()[pri:16, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:19:18 IST" name="unmute_conact" finished-at="2020-09-07T11:19:32 IST" duration-ms="13467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unmute_conact -->
+        <test-method signature="exit_group()[pri:17, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:19:32 IST" name="exit_group" finished-at="2020-09-07T11:19:37 IST" duration-ms="4732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_group -->
+        <test-method signature="delete_group()[pri:18, instance:executionPackage.Groupchat_test@76884e4b]" started-at="2020-09-07T11:19:37 IST" name="delete_group" finished-at="2020-09-07T11:19:42 IST" duration-ms="5006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_group -->
+      </class> <!-- executionPackage.Groupchat_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
